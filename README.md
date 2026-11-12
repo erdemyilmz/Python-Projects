@@ -26,6 +26,7 @@ The goal is simple: **build things, learn from them, and get better over time.**
 | 08 | Expense Tracker With Tkinter | Practiced tkinter library with this project |
 | 09 | Password Strength Checker | Relatiely easier project |
 | 10 | Some problems to improve my algorithmic thinking as well with my basic python skills. |
+| 11 | [CMPE101 Practice Set 1](Day-11-CMPE101-Example-Homeworks/README.md) | 13 question-matched solutions, exercise explanations, and the original PDF. |
 
 ## 📈 Progress
 
