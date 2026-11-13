@@ -1,0 +1,10 @@
+example_ticket,team,reply
+"I was charged twice for my subscription",Billing,"Could you share the dates of both charges so Billing can review them?"
+"Where can I download my latest invoice?",Billing,"You can download your latest invoice from your billing history."
+"I canceled my plan but still got charged",Billing,"Could you share the date you canceled and the date the charge went through?"
+"I forgot my password and cannot sign in",Account Access,"You can reset your password from the sign-in page."
+"My login verification code never arrived",Account Access,"Please check your spam folder and request a new verification code."
+"I lost access to the email linked to my account",Account Access,"Please start the account recovery process to regain access."
+"The app crashes whenever I try to open it",Technical Support,"Could you tell us which device and operating system you're using?"
+"I get an error when I upload a file",Technical Support,"Could you share the file type and the exact error message?"
+"The dashboard keeps loading and never opens",Technical Support,"Which browser are you using, and when did the problem start?"
